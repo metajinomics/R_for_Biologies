@@ -12,7 +12,7 @@ Contents:
    :maxdepth: 2
    
    Installation
-
+   ggplot2
 
 
 Indices and tables
