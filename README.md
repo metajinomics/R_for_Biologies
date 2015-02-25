@@ -1,2 +1,2 @@
-# R_for_Biologies
-Read-the-doc R for Biologies
+# R_for_Biologist
+Read-the-doc R for Biologist
